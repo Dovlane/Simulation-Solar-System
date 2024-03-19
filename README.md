@@ -18,8 +18,8 @@ The simulation provides six speed options that can be adjusted using a slider, w
 6. 1 real month 
 
 Additionally, there are radio buttons providing two functionalities:
-•  Focus on object: This centers one celestial body in the frame, keeping it stationary while the others orbit around it.
-•  Make a trail: This prompts the selected object to leave a trail, facilitating the examination of its movement.
+1. Focus on object: This centers one celestial body in the frame, keeping it stationary while the others orbit around it.
+2. Make a trail: This prompts the selected object to leave a trail, facilitating the examination of its movement.
 
 For both options, we select the desired object from a dropdown menu to apply the chosen functionality.
 
