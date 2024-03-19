@@ -1,5 +1,27 @@
 # Simulation-Solar-System - about project
 
+In this program, I've successfully imported all the key parameters from the real Solar System:
+1. The distances of planets relative to the Sun.
+2. The gravitational constant's value.
+3. The masses of celestial bodies.
+4. The velocities of planets orbiting the Sun relative to the Sun.
+5. The angle of rotation axis of planets relative to the ecliptic plane along with their rotational velocity around their axis.
+
+I've adhered to the principles of classical physics, respecting gravitational interactions between all bodies.
+However, I've neglected one "less crucial" parameter, which is the size of their radii. To enhance visibility, I've increased the radius of each celestial body by 40 times. Without this adjustment, they wouldn't be discernible to the naked eye.
+The simulation provides six speed options that can be adjusted using a slider, with each option representing a different time scale relative to one second of simulation:
+1. 1 real second
+2. 1 real minute
+3. 1 real hour 
+4. 1 real day
+5. 1 real week
+6. 1 real month 
+Additionally, there are radio buttons providing two functionalities:
+•	Focus on object: This centers one celestial body in the frame, keeping it stationary while the others orbit around it.
+•	Make a trail: This prompts the selected object to leave a trail, facilitating the examination of its movement.
+For both options, we select the desired object from a dropdown menu to apply the chosen functionality.
+
+
 # How to use
 
 To adjust focus, use the mouse scroll wheel to zoom in and out. To change the viewing angle, hold down the left mouse button while moving the mouse.
