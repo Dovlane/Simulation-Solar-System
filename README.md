@@ -26,7 +26,7 @@ For both options, we select the desired object from a dropdown menu to apply the
 
 # How to use
 
-To adjust focus, use the mouse scroll wheel to zoom in and out. To change the viewing angle, hold down the left mouse button while moving the mouse.
+To adjust focus, use the mouse scroll wheel to zoom in and out. To change the viewing angle, hold down the right mouse button while moving the mouse.
 For instance, if you wish to observe the Moon's rotation around the Earth, you can make full use of the tools provided by this program.
 Here's how to get started:
 1. At the bottom left corner, you'll find a radio button labeled "Focus on object." Click on it (it's usually selected by default). Initially, the focus is default, centered at the (0, 0, 0) coordinate of the environment itself.
