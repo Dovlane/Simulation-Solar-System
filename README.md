@@ -23,7 +23,7 @@ Additionally, there are radio buttons providing two functionalities:
 
 For both options, we select the desired object from a dropdown menu to apply the chosen functionality.
 
-![tools](https://github.com/Dovlane/Simulation-Solar-System/assets/57462728/58d31390-7c63-4920-9471-b4adee42fcc1)
+<img src ="https://github.com/Dovlane/Simulation-Solar-System/assets/57462728/58d31390-7c63-4920-9471-b4adee42fcc1", width = "500">
 
 # How to use
 
