@@ -41,9 +41,9 @@ Here's how to get started:
 4. With the simulation now at a suitable speed, let's direct our attention to the Moon! If you wish to track the Moon's trajectory, first choose the "Make a trail" option. Then, in the dropdown menu where you previously selected "Earth," now choose "Moon."
 5. Lastly, if you want to make the Moon's rotation around the Earth more noticeable, speed up the simulation a bit more.
 <p float="left">
-  <img src ="https://github.com/Dovlane/Simulation-Solar-System/assets/57462728/f0ce3e55-091f-4991-a3b5-446130129f73" height = "200">
-  <img src ="https://github.com/Dovlane/Simulation-Solar-System/assets/57462728/c2a273be-9fb4-454a-a62d-50b8a33900db" height = "200">
-  <img src ="https://github.com/Dovlane/Simulation-Solar-System/assets/57462728/44b1efe3-be6f-4f21-93c5-a63cf035faec" height = "200">
+  <img src ="https://github.com/Dovlane/Simulation-Solar-System/assets/57462728/f0ce3e55-091f-4991-a3b5-446130129f73" height = "150">
+  <img src ="https://github.com/Dovlane/Simulation-Solar-System/assets/57462728/c2a273be-9fb4-454a-a62d-50b8a33900db" height = "150">
+  <img src ="https://github.com/Dovlane/Simulation-Solar-System/assets/57462728/44b1efe3-be6f-4f21-93c5-a63cf035faec" height = "150">
 </p>
 
 6. That's all there is to it – feel free to explore! Enjoy the marvels of physics and astronomy : ) !
