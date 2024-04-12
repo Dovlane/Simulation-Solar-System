@@ -31,7 +31,7 @@ To adjust focus, use the mouse scroll wheel to zoom in and out. To change the vi
 For instance, if you wish to observe the Moon's rotation around the Earth, you can make full use of the tools provided by this program.
 Here's how to get started:
 1. At the bottom left corner, you'll find a radio button labeled "Focus on object." Click on it (it's usually selected by default). Initially, the focus is default, centered at the (0, 0, 0) coordinate of the environment itself.
-![1 step](https://github.com/Dovlane/Simulation-Solar-System/assets/57462728/84aad839-da64-451a-b297-bef190c28150)
+![1 step](https://github.com/Dovlane/Simulation-Solar-System/assets/57462728/84aad839-da64-451a-b297-bef190c28150 | height = 400)
 
 2. To shift the focus to Earth, navigate to the dropdown menu (located to the right of this radio button) and select the "Earth" option. After selecting it, the display should change accordingly.
 ![2 step](https://github.com/Dovlane/Simulation-Solar-System/assets/57462728/9f2a0012-cef9-4a9d-9fc7-f9deddae7e23)
