@@ -23,7 +23,7 @@ Additionally, there are radio buttons providing two functionalities:
 
 For both options, we select the desired object from a dropdown menu to apply the chosen functionality.
 
-<img src ="https://github.com/Dovlane/Simulation-Solar-System/assets/57462728/58d31390-7c63-4920-9471-b4adee42fcc1" width = "600">
+<img src ="https://github.com/Dovlane/Simulation-Solar-System/assets/57462728/d1062772-fbc2-4d01-9af9-34f3944cb629" width = "600">
 
 # How to use
 
@@ -31,22 +31,20 @@ To adjust focus, use the mouse scroll wheel to zoom in and out. To change the vi
 For instance, if you wish to observe the Moon's rotation around the Earth, you can make full use of the tools provided by this program.
 Here's how to get started:
 1. At the bottom left corner, you'll find a radio button labeled "Focus on object." Click on it (it's usually selected by default). Initially, the focus is default, centered at the (0, 0, 0) coordinate of the environment itself.
-<img src ="https://github.com/Dovlane/Simulation-Solar-System/assets/57462728/84aad839-da64-451a-b297-bef190c28150" width = "600">
-
 2. To shift the focus to Earth, navigate to the dropdown menu (located to the right of this radio button) and select the "Earth" option. After selecting it, the display should change accordingly.
-<img src ="https://github.com/Dovlane/Simulation-Solar-System/assets/57462728/9f2a0012-cef9-4a9d-9fc7-f9deddae7e23" width = "600">
+<p float="left">
+  <img src ="https://github.com/Dovlane/Simulation-Solar-System/assets/57462728/12b15355-1958-4099-a33b-f77d7a85d70a" width = "400" />
+  <img src ="https://github.com/Dovlane/Simulation-Solar-System/assets/57462728/d7d2d69a-184a-4da6-80b4-1913714d8e06" width = "400" />
+</p>
 
 3. Now, to observe the Earth's rotation, let's increase the simulation speed. Move the slider two positions to the right – notice how it slows down? This is because each second of simulation now corresponds to 15 degrees of Earth's rotation around its axis! If you'd like to accelerate further, move the slider one more position to the right.
-<img src ="https://github.com/Dovlane/Simulation-Solar-System/assets/57462728/c17cad6a-b61e-45f8-a568-4ac4e481f49e" width = "600">
-
-
 4. With the simulation now at a suitable speed, let's direct our attention to the Moon! If you wish to track the Moon's trajectory, first choose the "Make a trail" option. Then, in the dropdown menu where you previously selected "Earth," now choose "Moon."
-<img src ="https://github.com/Dovlane/Simulation-Solar-System/assets/57462728/653d82db-cc5e-4187-900a-ec45cfe0fe36" width = "600">
-
-
 5. Lastly, if you want to make the Moon's rotation around the Earth more noticeable, speed up the simulation a bit more.
-<img src ="https://github.com/Dovlane/Simulation-Solar-System/assets/57462728/d0363f45-90c2-4644-a56d-a045d06f76b5" width = "600">
-
+<p float="left">
+  <img src ="https://github.com/Dovlane/Simulation-Solar-System/assets/57462728/f0ce3e55-091f-4991-a3b5-446130129f73" height = "200">
+  <img src ="https://github.com/Dovlane/Simulation-Solar-System/assets/57462728/c2a273be-9fb4-454a-a62d-50b8a33900db" height = "200">
+  <img src ="https://github.com/Dovlane/Simulation-Solar-System/assets/57462728/44b1efe3-be6f-4f21-93c5-a63cf035faec" height = "200">
+</p>
 
 6. That's all there is to it – feel free to explore! Enjoy the marvels of physics and astronomy : ) !
 
